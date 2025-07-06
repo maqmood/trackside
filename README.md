@@ -1,2 +1,2 @@
-# trackside
+# Trackside
 Motorsport Companion App
